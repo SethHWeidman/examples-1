@@ -1,6 +1,8 @@
 dcgan/data
 data
 *.pyc
+*.ipynb_checkpoints
 OpenNMT/data
 cpp/mnist/build
 cpp/dcgan/build
+recipes/beginner/data
